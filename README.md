@@ -14,4 +14,4 @@ AWS S3
 AWS CloudFront
 
 # デプロイ先のリンク
-d2784oox4xfoom.cloudfront.net
+https://d2784oox4xfoom.cloudfront.net/
