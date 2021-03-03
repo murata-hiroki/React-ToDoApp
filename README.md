@@ -14,4 +14,4 @@ AWS S3
 AWS CloudFront
 
 # デプロイ先のリンク
-http://react-todos-app.s3-website-ap-northeast-1.amazonaws.com/
+d2784oox4xfoom.cloudfront.net
